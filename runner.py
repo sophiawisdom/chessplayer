@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/Users/williamwisdom/python-chess")
+sys.path.append("/Users/sophiawisdom/python-chess")
 import chess
 from chess import engine # will fail normally without removing references to chess.Color
 import random
